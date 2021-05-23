@@ -1,0 +1,19 @@
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+body {
+    background-image: url('bg.jpg');
+    background-position: center;
+    background-size: cover;
+    color: black;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
